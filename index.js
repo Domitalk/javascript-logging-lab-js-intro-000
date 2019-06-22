@@ -1,2 +1,2 @@
 console.error("HALP")
-console.log("00000")
+console.log("1")
