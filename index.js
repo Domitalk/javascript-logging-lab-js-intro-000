@@ -1,3 +1,3 @@
 console.error("HALP")
-console.log("Hello, World!")
+console.log("Tell me something new")
 console.warn("Danger Will Robinson!, Danger Will Robinson!")
